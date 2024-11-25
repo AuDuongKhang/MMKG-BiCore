@@ -1,0 +1,6 @@
+*.pth filter=lfs diff=lfs merge=lfs -text
+*.pickle filter=lfs diff=lfs merge=lfs -text
+*.pyc filter=lfs diff=lfs merge=lfs -text
+wiki_tuple_ids filter=lfs diff=lfs merge=lfs -text
+ent_id filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text

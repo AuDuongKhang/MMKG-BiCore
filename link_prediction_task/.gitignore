@@ -1,0 +1,5 @@
+pre_train
+data
+logs
+code/read_npy.ipynb
+code/__pycache__
